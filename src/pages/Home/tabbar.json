@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "首页",
+    "key": "1",
+    "iconFont": "icon-ind",
+    "pathname": "/home"
+  },
+  {
+    "id": 2,
+    "title": "找房",
+    "key": "2",
+    "iconFont": "icon-findHouse",
+    "pathname": "/home/list"
+  },
+  {
+    "id": 3,
+    "title": "我的",
+    "key": "3",
+    "iconFont": "icon-my",
+    "pathname": "/home/profile"
+  }
+]
